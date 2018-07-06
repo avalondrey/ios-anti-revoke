@@ -1,0 +1,13 @@
+# iOS Anti-Revoke and Update Blocker
+#
+# Designed for Pi-Hole and other DNS-based blockers
+#
+# List maintained and updated by Database
+
+
+0.0.0.0 ocsp.apple.com
+0.0.0.0 ppq.apple.com
+0.0.0.0 appidnid.apple.com
+0.0.0.0 iadc.qwape.com
+0.0.0.0 iadsk.apple.com
+0.0.0.0 mesu.apple.com
